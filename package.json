@@ -1,0 +1,8 @@
+{
+  "name": "barebones-express-server",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "author": "sean holden",
+  "devDependencies": "express"
+}
